@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>formulario</title>
+</head>
+<body>
+
+    <div>
+        <h1>Formulario</h1>
+        <form  action="" method="POST" >
+            <label for="nome">nome:</label>
+            <input type="text" name="nome" placeholder="nome e sobrenome" required>
+            <br>
+            <label for="matricula">matricula:</label>
+            <input type="text" name="matricula" placeholder="matricula" required>
+            <br>
+            <select name="turno" id="turno" required>
+                <option value="" disabled selected hidden>escolha o turno</option>
+                <option value="manha">turno da manhã</option>
+                <option value="tarde">turno da tarde</option>
+                <option value="noite">turno da noite</option>
+                <option value="integral">tempo integral</option>
+            </select><br>
+            <select name="curso" id="curso" required>
+                <option value="" disabled selected hidden>escolha o curso</option>
+                <option value="ads">analise e desenvolvimento de sistemas</option>
+                <option value="ciencia_computacao">ciencia da computação</option>
+            </select><br>
+            <button type="submit" class="butao">Enviar</button>
+            <a href="listagem.html" class="botao">Listar alunos</a>
+        </form>
+    </div>
+    
+
+</body>
+</html>
