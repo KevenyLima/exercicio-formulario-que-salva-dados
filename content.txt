@@ -1,0 +1,10 @@
+{"nome":"Antonio Luis","matricula":"1232145tfdfs","turno":"manha","curso":"ads"}
+{"nome":"Antonio Luis","matricula":"1232145tfdfs","turno":"tarde","curso":"ads"}
+{"nome":"keveny","matricula":"1231231","turno":"manha","curso":"ciencia_computacao"}
+{"nome":"Antonio Luis","matricula":"1232145tfdfs","turno":"integral","curso":"ads"}
+{"nome":"jupiter","matricula":"1529807","turno":"integral","curso":"ads"}
+{"nome":"keveny","matricula":"1232145tfdfs","turno":"tarde","curso":"ciencia_computacao"}
+{"nome":"Antonio Luis","matricula":"1231231","turno":"tarde","curso":"ads"}
+{"nome":"1212312","matricula":"1232145tfdfs","turno":"noite","curso":"ciencia_computacao"}
+{"nome":"ahsgdaj","matricula":"ASaasdasd","turno":"noite","curso":"ciencia_computacao"}
+{"nome":"asdads","matricula":"asdasd","turno":"manha","curso":"ads"}
